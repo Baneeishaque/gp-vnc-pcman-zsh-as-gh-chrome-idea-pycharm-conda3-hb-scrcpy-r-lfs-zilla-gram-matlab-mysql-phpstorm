@@ -1,0 +1,130 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="news-website-code-igniter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news-website-code-igniter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news-website-code-igniter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="news-website-code-igniter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1815000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24633968" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33072916" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="357" y="49" key="#CLI_Interpreters" timestamp="1620241366446">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state x="357" y="49" key="#CLI_Interpreters/0.0.1366.595@0.0.1366.595" timestamp="1620241366446" />
+    <state x="336" y="49" width="705" height="500" key="#PHP" timestamp="1620241387944">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state x="336" y="49" width="705" height="500" key="#PHP/0.0.1366.595@0.0.1366.595" timestamp="1620241387944" />
+    <state x="511" y="73" key="#Servers" timestamp="1620242440262">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state x="511" y="73" key="#Servers/0.0.1366.595@0.0.1366.595" timestamp="1620242440262" />
+    <state x="450" y="90" width="457" height="445" key="#Web_Browsers" timestamp="1620242789134">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state x="450" y="90" width="457" height="445" key="#Web_Browsers/0.0.1366.595@0.0.1366.595" timestamp="1620242789134" />
+    <state x="261" y="35" width="844" height="560" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620242857747">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state x="261" y="35" width="844" height="560" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.595@0.0.1366.595" timestamp="1620242857747" />
+    <state x="466" y="73" width="426" height="479" key="FileChooserDialogImpl" timestamp="1620242493513">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state x="466" y="73" width="426" height="479" key="FileChooserDialogImpl/0.0.1366.595@0.0.1366.595" timestamp="1620242493513" />
+    <state width="1324" height="162" key="GridCell.Tab.0.bottom" timestamp="1620242875983">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state width="1324" height="162" key="GridCell.Tab.0.bottom/0.0.1366.595@0.0.1366.595" timestamp="1620242875983" />
+    <state width="1324" height="162" key="GridCell.Tab.0.center" timestamp="1620242875982">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state width="1324" height="162" key="GridCell.Tab.0.center/0.0.1366.595@0.0.1366.595" timestamp="1620242875982" />
+    <state width="1324" height="162" key="GridCell.Tab.0.left" timestamp="1620242875982">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state width="1324" height="162" key="GridCell.Tab.0.left/0.0.1366.595@0.0.1366.595" timestamp="1620242875982" />
+    <state width="1324" height="162" key="GridCell.Tab.0.right" timestamp="1620242875982">
+      <screen x="0" y="0" width="1366" height="595" />
+    </state>
+    <state width="1324" height="162" key="GridCell.Tab.0.right/0.0.1366.595@0.0.1366.595" timestamp="1620242875982" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6621">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#1668#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1620242419245" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="18" l="1620242429644" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1620242357747" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1620242352165" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1620242870588" />
+    </e>
+    <e n="ProjectViewEditSource">
+      <i c="1" l="1620241156183" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1620242802257" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1620242860942" />
+    </e>
+    <e n="WelcomeScreen.CreateWebProject">
+      <i c="1" l="1620241012503" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1620240992894" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="2" l="1620242836226" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1620241105982" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1620241446344" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1620240999351" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="2" l="1620242295543" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1620242278203" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1620242276443" />
+    </e>
+    <e n="com.jetbrains.php.ui.PhpUiUtil$2">
+      <i c="1" l="1620241245166" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="5" l="1620242839086" />
+    </e>
+  </component>
+</application>
