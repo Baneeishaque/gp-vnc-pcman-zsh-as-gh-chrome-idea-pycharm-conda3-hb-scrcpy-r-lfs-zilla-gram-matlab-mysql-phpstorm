@@ -11,3 +11,12 @@ RUN cd $HOME \
 RUN mkdir -p ~/.config/JetBrains/PhpStorm2021.1 \
  && cp /usr/local/PhpStorm-211.7142.44/bin/phpstorm64.vmoptions ~/.config/JetBrains/PhpStorm2021.1/ \
  && echo "-Dsun.java2d.xrender=false" >> ~/.config/JetBrains/PhpStorm2021.1/phpstorm64.vmoptions
+
+RUN brew install wget
+
+ENV PATH=/home/linuxbrew/.linuxbrew/Cellar/wget/1.21.1/bin:$PATH
+
+RUN sudo apt update \
+ && sudo apt install -y \
+     wget2 \
+ && sudo rm -rf /var/lib/apt/lists/*

@@ -14,6 +14,8 @@
 
 ## Tint 2 : 16.7
 ## PCMan File Manager : 1.3.1
+## Wget : 1.21.1
+## Wget2 : 1.99.1
 
 ## ZSH : 5.8
 ### &nbsp;&nbsp; - Oh My ZSH : 12669f2
