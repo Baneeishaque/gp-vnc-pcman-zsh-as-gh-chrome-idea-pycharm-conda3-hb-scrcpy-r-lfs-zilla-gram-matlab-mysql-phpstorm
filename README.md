@@ -12,10 +12,12 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gp-vnc-pcman-zsh-as-gh-chrome-idea-pycharm-conda3-hb-scrcpy-r-lfs-zilla-gram-matlab-mysql-phpstorm)
 
-## Tint 2 : 16.7
-## PCMan File Manager : 1.3.1
-## Wget : 1.21.1
-## Wget2 : 1.99.1
+## Tools
+### &nbsp;&nbsp; - Tint 2 : 16.7
+### &nbsp;&nbsp; - PCMan File Manager : 1.3.1
+### &nbsp;&nbsp; - GNU Midnight Commander : 4.8.26 
+### &nbsp;&nbsp; - Wget : 1.21.1 
+### &nbsp;&nbsp; - Wget2 : 1.99.1
 
 ## ZSH : 5.8
 ### &nbsp;&nbsp; - Oh My ZSH : 12669f2
