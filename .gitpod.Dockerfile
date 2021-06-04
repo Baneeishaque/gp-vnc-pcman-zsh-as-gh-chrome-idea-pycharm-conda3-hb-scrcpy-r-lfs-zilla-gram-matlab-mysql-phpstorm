@@ -15,7 +15,15 @@ RUN mkdir -p ~/.config/JetBrains/PhpStorm2021.1 \
 RUN brew install wget midnight-commander
 ENV PATH=/home/linuxbrew/.linuxbrew/Cellar/wget/1.21.1/bin:/home/linuxbrew/.linuxbrew/Cellar/midnight-commander/4.8.26/bin:$PATH
 
-RUN sudo apt update \
+RUN cd $HOME \
+ && sudo apt update \
  && sudo apt install -y \
-     wget2 aria2 \
+     wget2 aria2 unrar \
+ && aria2c https://go.microsoft.com/fwlink/?LinkID=760868 \
+ && sudo apt install -y \
+     ./code_*_amd64.deb \
+ && rm code_*_amd64.deb \
+ && sudo apt update \
+ && sudo apt install -y \
+     code-insiders \
  && sudo rm -rf /var/lib/apt/lists/*
