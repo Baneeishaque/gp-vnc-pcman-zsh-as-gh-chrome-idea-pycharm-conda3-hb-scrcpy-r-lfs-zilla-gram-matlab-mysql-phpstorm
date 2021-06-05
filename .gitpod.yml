@@ -24,7 +24,8 @@ image:
   # - command: code .
   # Will Work (Insiders is the beta version of Microsoft VSCode)
   # - command: code-insiders .
-  
+  # - command: mkdir -p ~/.config/JetBrains && ln -s `pwd`/WebStorm2021.1-config ~/.config/JetBrains/WebStorm2021.1 && mkdir -p ~/.local/share/JetBrains && ln -s `pwd`/WebStorm2021.1-local ~/.local/share/JetBrains/WebStorm2021.1 && cd /usr/local/WebStorm-211.7442.26/bin/ && ./webstorm.sh
+
 ports:
   - port: 5900
     onOpen: ignore
