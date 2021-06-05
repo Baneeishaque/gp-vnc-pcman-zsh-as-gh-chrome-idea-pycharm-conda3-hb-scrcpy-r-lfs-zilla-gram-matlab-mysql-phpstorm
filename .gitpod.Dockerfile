@@ -19,13 +19,6 @@ RUN cd $HOME \
  && sudo apt update \
  && sudo apt install -y \
      wget2 aria2 unrar \
- && aria2c https://go.microsoft.com/fwlink/?LinkID=760868 \
- && sudo apt install -y \
-     ./code_*_amd64.deb \
- && rm code_*_amd64.deb \
- && sudo apt update \
- && sudo apt install -y \
-     code-insiders \
  && sudo rm -rf /var/lib/apt/lists/*
 
 ARG webStormDownloadUrl="https://download.jetbrains.com/webstorm/WebStorm-2021.1.2.tar.gz"
