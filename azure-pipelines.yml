@@ -16,7 +16,7 @@ stages:
     displayName: Build & Push
     pool:
       vmImage: ubuntu-latest
-    steps:   
+    steps:
     - task: Docker@2
       displayName: Build & Push an image
       inputs:
